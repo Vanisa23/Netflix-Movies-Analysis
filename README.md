@@ -6,7 +6,9 @@ This project explores and visualizes data from Netflix, focusing on movies. It f
 **Technologies Used:**
 
 Python
+
 Pandas
+
 Matplotlib
 
 This project demonstrates the use of data manipulation with Pandas and visualization with Matplotlib to gain insights into Netflix movie data. The resulting scatter plot offers an engaging visualization of movie durations over time, with distinct genre categories represented by different colors.
